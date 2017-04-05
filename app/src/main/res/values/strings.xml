@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndriodLab</string>
+    <string name="username">UserName</string>
+    <string name="password">PassWord</string>
+    <string name="setin_activity">AndriodLab</string>
+    <string name="action_settings">Setting</string>
+    <string name="login">Sign in</string>
+    <string name="cancle">Cancle</string>
+    <string name="menu_Font">字体大小</string>
+    <string name="menu_Normal">普通菜单项</string>
+    <string name="menu_Color">字体颜色</string>
+    <string name="menu_font_small">小号</string>
+    <string name="menu_font_middle">中号</string>
+    <string name="menu_font_big">大号</string>
+    <string name="menu_color_red">红色</string>
+    <string name="menu_color_black">黑色</string>
+    <string name="tv_test">用于测试的文本</string>
+    <string name="tv_process_bar">Loading...</string>
+</resources>
